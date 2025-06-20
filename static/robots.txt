@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# 禁止所有搜索引擎爬虫访问任何页面
+# This site is private and should not be indexed by search engines 
