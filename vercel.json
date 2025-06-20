@@ -1,0 +1,14 @@
+{
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.121.1"
+    }
+  },
+  "functions": {},
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+} 
